@@ -7,7 +7,7 @@ num = random.randint(0,7)
 
 if weather_tk == str(1):
     if num == 0:
-        print("明日の東京都の天気は晴れだと思います！いぇい！")
+        print("明日の東京都の天気は晴れだと思います！いぇい！ピクニック")
     elif num == 1:
         print("明日の東京都の天気は曇りだと思います！涼しい！")
     elif num == 2:
